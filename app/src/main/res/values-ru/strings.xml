@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">LongLog</string>
+    <string name="title_activity_login">Вход</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="action_sign_in_short">Войти</string>
+    <string name="error_invalid_email">Email неккоректный</string>
+    <string name="error_invalid_password">Пароль слишком короткий</string>
+    <string name="error_incorrect_password">Пользователь не найден либо неверный пароль</string>
+    <string name="error_field_required">Это поле обязательно</string>
+    <string name="prompt_host">Host</string>
+    <string name="too_many_requests">Слишком много запросов, повторите через минуту</string>
+    <string name="error_invalid_host">API URL неверный</string>
+    <string name="main_activity_title">Выберите проект</string>
+    <string name="project_activity_title">Проект: %1$s</string>
+    <string name="job_stats_title">%1$s: статистика</string>
+    <string name="api_version_incompatible">
+        Версия вашего приложения не поддерживается этим сервером.\n
+        Ваша версия: %1$s\n
+        Поддерживаемые сервером: %2$s
+    </string>
+    <string name="check_version_error">
+        Ошибка проверки совместимости приложения с сервером.\n
+        Проверьте правильность написания адреса сервера.
+    </string>
+    <string name="logout">Выйти</string>
+    <string name="logout_confirmation">Вы действительно хотите выйти?</string>
+    <string name="chart_critical_duration_label">Критическая длительность</string>
+</resources>

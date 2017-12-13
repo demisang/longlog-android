@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">LongLog</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">User not found or password incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="prompt_host">Host</string>
+    <string name="too_many_requests">Too Many Requests, retry after minute</string>
+    <string name="error_invalid_host">Endpoint URL is invalid</string>
+    <string name="main_activity_title">Choose project</string>
+    <string name="project_activity_title">Project: %1$s</string>
+    <string name="job_stats_title">%1$s: stats</string>
+    <string name="api_version_incompatible">
+        Your application API version does not supported by this server.\n
+        Your version: %1$s\n
+        Server-supported versions: %2$s
+    </string>
+    <string name="check_version_error">
+        Unable to check API version compatibility.\n
+        Check server host address.
+    </string>
+    <string name="logout">Logout</string>
+    <string name="logout_confirmation">Do you really want to logout?</string>
+    <string name="chart_critical_duration_label">Critical duration</string>
+</resources>
